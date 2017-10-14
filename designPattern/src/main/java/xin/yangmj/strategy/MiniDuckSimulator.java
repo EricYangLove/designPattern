@@ -23,7 +23,5 @@ public class MiniDuckSimulator {
         // 更改运行行为
         model.setFlyBehavior(new FlyRocketPowered());
         model.performFly();
-
-        // 哈哈哈，这是测试Git
     }
 }
